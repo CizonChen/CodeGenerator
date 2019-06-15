@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/moshowgame/SpringBootCodeGenerator.svg?branch=master)](https://travis-ci.org/moshowgame/SpringBootCodeGenerator)
 <br>
 
-SpringBootCodeGenerator
+SpringBootCodeGenerator2
 ----
 基于SpringBoot2+Freemarker的代码生成器，用DDL SQL语句生成JPA/JdbcTemplate/Mybatis/BeetlSQL相关代码，支持mysql/oracle/pgsql等三大数据库。以释放双手为目的，各大模板也在陆续补充和优化。欢迎大家Issue提交模板和交流想法，也欢迎提交PullRequest！
 <br><br>
