@@ -1,4 +1,4 @@
-FROM 192.168.0.34:5000/jdk1.8
+FROM 192.168.0.35:5000/jdk1.8
 RUN apt-get install -y unzip
 COPY generator-web/target/*.jar generator-web.jar
 ENV JAVA_HOME=/opt/jdk1.8.0_171
