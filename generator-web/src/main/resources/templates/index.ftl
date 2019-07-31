@@ -118,7 +118,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h2>Cizon Generator1试人人试6!Cizon</h2>
+        <h2>Cizon是 Generator1试试试人人试6!Cizon</h2>
         <p class="lead">
             基于<code>SpringBoot2存储</code>+<code>Freemarker</code>的代码生成器，用<code>DDL SQL</code>语句生成<code>JPA</code>/<code>JdbcTemplate</code>/<code>Mybatis</code>/<code>MybatisPlus</code>/<code>BeetlSQL</code>相关代码，支持<code>mysql</code>/<code>oracle</code>/<code>pgsql</code>三大数据库。以<code>释放双手</code>为目的，各大模板也在陆续补充和优化。欢迎大家多多提交模板和交流想法，如果发现有SQL语句不能识别，请<a href="https://github.com/moshowgame/SpringBootCodeGenerator/issues">留言</a>给我分析，同时欢迎大家进行<a href="https://github.com/moshowgame/SpringBootCodeGenerator/pulls">PullRequest</a>和<a href="#" id="donate1">赞赏</a>，谢谢！
         </p>
