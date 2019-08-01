@@ -106,10 +106,10 @@
 
     <div class="container">
         <nav class="navbar navbar-dark bg-primary btn-lg">
-            <a class="navbar-brand" href="http://www.bejson.com">BeJSON在线工具站owR6bEXfB7GAsSVqR-W1</a>
+            <a class="navbar-brand" href="http://www.bejson.com">SpringBoot 代码生成器</a>
             <ul class="nav navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="http://blog.csdn.net/moshowgame">大狼狗CSDN</a>
+                    <a class="nav-link" href="http://blog.csdn.net/moshowgame"></a>
                 </li>
             </ul>
         </nav>
@@ -118,7 +118,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h2>Cizon是 Generator1试试试人人试6!Cizon</h2>
+        <h2>Cizon是 Generator Cizon</h2>
         <p class="lead">
             基于<code>SpringBoot2存储</code>+<code>Freemarker</code>的代码生成器，用<code>DDL SQL</code>语句生成<code>JPA</code>/<code>JdbcTemplate</code>/<code>Mybatis</code>/<code>MybatisPlus</code>/<code>BeetlSQL</code>相关代码，支持<code>mysql</code>/<code>oracle</code>/<code>pgsql</code>三大数据库。以<code>释放双手</code>为目的，各大模板也在陆续补充和优化。欢迎大家多多提交模板和交流想法，如果发现有SQL语句不能识别，请<a href="https://github.com/moshowgame/SpringBootCodeGenerator/issues">留言</a>给我分析，同时欢迎大家进行<a href="https://github.com/moshowgame/SpringBootCodeGenerator/pulls">PullRequest</a>和<a href="#" id="donate1">赞赏</a>，谢谢！
         </p>
@@ -126,7 +126,7 @@
             <div class="input-group-prepend">
                 <span class="input-group-text">作者名称</span>
             </div>
-            <input type="text" class="form-control" id="authorName" name="authorName" placeholder="大狼狗">
+            <input type="text" class="form-control" id="authorName" name="authorName" placeholder="cizon">
             <div class="input-group-prepend">
                 <span class="input-group-text">包名路径</span>
             </div>
@@ -266,7 +266,7 @@ CREATE TABLE `userinfo` (
         <footer class="bd-footer text-muted" role="contentinfo">
             <div class="container">
                <strong>Copyright &copy; ${.now?string('yyyy')}-2022 &nbsp;
-                   <p><a href="https://github.com/moshowgame/SpringBootCodeGenerator">SpringBootCodeGenerator</a>由<a href="https://blog.csdn.net/moshowgame" target="_blank">@Moshow/大狼狗/郑锴</a> 开发维护。 由 <a href="https://www.bejson.com">BeJson三叔 </a> 提供在线版本。点击<a href="#" id="donate2">赞赏</a>。</p>
+                  
             </div>
         </footer>
     </footer>
